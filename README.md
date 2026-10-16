@@ -3,6 +3,16 @@
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
 ---
+
+## How Nindar Helps Logistics Companies Hire DevOps and Real-Time Tracking Engineers
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/11cfa7e7-d673-4d09-a2c0-533801212a57" />
+
+Logistics companies need engineers who can keep digital platforms reliable and tracking data accurate. Nindar helps employers identify and recruit talent suited to these operational demands.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-helps-logistics-companies-hire-devops-and-real-time-tracking-engineers
+
+
 ## How Nindar Helps Banks Overcome the Integration Talent Gap in Core Banking Migrations
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/be887684-cab7-4940-90db-df5cb2db8292" />
