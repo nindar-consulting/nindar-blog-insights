@@ -2,6 +2,13 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## How Nindar Screens Payments Engineers for Transaction Failures and System Reliability
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81708e3c-c44c-46b7-9490-a1a5d9b7ef0b" />
+
+Payments experience involves more than building APIs. Nindar helps FinTech companies assess engineers against the transaction problems they may face in production.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-screens-payments-engineers-for-transaction-failures-and-system-reliability
+
 ---
 
 ## How Nindar Helps Logistics Companies Hire DevOps and Real-Time Tracking Engineers
