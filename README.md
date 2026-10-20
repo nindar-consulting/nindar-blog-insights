@@ -2,6 +2,17 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## How Nindar Builds Cross-Border Engineering Shortlists for Web3 Products Moving Into Production
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6f93eef-16e9-4fbb-9498-7e5abf359eb8" />
+
+What changes when a Web3 product moves into production? Hiring changes too.
+Backend, DevOps, infrastructure, security, and reliability start to matter more.
+Here’s how Nindar builds cross-border engineering shortlists for that stage:
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-builds-cross-border-engineering-shortlists-for-web3-products-moving-into-production
+
+---
 ## How Nindar Screens Payments Engineers for Transaction Failures and System Reliability
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81708e3c-c44c-46b7-9490-a1a5d9b7ef0b" />
 
