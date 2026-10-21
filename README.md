@@ -2,6 +2,14 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## Scaling a Software Product: How Nindar Aligns Technical Hiring With Product Roadmaps
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d825d4-a027-45ae-adf6-a3b29fad2275" />
+
+Software products require different technical capabilities as they move from development to launch and growth. Nindar helps companies align specialist hiring with their current roadmap priorities.
+
+[Read the full article →] https://www.nindar.com/blog/scaling-a-software-product-how-nindar-aligns-technical-hiring-with-product-roadmaps
+
+---
 ## How Nindar Builds Cross-Border Engineering Shortlists for Web3 Products Moving Into Production
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b6f93eef-16e9-4fbb-9498-7e5abf359eb8" />
