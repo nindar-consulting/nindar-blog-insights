@@ -2,7 +2,26 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+
+
+## Is Your AI Hiring Brief Searchable? How Nindar Tests the Market Before Sourcing
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d0941e46-2dcf-474d-b379-026b0a37284f" />
+
+A detailed AI hiring brief is not always searchable in the real talent market. Nindar can help employers identify restrictive requirements and evaluate practical alternatives before sourcing begins.
+
+[Read the full article →] https://www.nindar.com/blog/is-your-ai-hiring-brief-searchable-how-nindar-tests-the-market-before-sourcing
+
+---
+## Securing Sovereign Assets: Embedding Smart Contract and Ledger Architects into Decentralized Treasury Systems
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b9fa9b68-eb87-470a-ab26-ec42729de5dc" />
+
+Discover how smart contract and ledger architects help secure decentralised treasury systems, protect sovereign assets, and how Nindar Consulting connects FinTech and Web3 companies with specialised talent.
+
+[Read the full article →] https://www.nindar.com/blog/securing-sovereign-assets-embedding-smart-contract-and-ledger-architects-into-decentralized
+
+---
 ## Scaling a Software Product: How Nindar Aligns Technical Hiring With Product Roadmaps
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6d825d4-a027-45ae-adf6-a3b29fad2275" />
 
 Software products require different technical capabilities as they move from development to launch and growth. Nindar helps companies align specialist hiring with their current roadmap priorities.
