@@ -2,7 +2,12 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## How Nindar Uses Competitor Engineering Team Maps to Build More Realistic Hiring Budgets
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ec68c4ff-6be7-4381-84cb-ba5f91035d29" />
 
+Engineering budgets can become unreliable when they are based on job titles or a single salary average. Nindar uses competitor team maps and compensation benchmarks to help employers plan a more realistic role and seniority mix.
+ 
+[Read the full article →] https://www.nindar.com/blog/how-nindar-uses-competitor-engineering-team-maps-to-build-more-realistic-hiring-budgets
 
 ## Is Your AI Hiring Brief Searchable? How Nindar Tests the Market Before Sourcing
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d0941e46-2dcf-474d-b379-026b0a37284f" />
