@@ -2,6 +2,13 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## How Nindar Helps VCs Support Hiring Across Multiple Portfolio Companies
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b55f83b1-f3c4-4c6f-850a-cb48a7f37a1a" />
+
+Portfolio companies can have very different technical and leadership hiring needs. Nindar gives VCs access to one specialist talent partnership that can support each company appropriately.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-helps-vcs-support-hiring-across-multiple-portfolio-companies
+
 ## How Nindar Uses Competitor Engineering Team Maps to Build More Realistic Hiring Budgets
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ec68c4ff-6be7-4381-84cb-ba5f91035d29" />
 
