@@ -2,6 +2,13 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## Before Hiring Smart Contract Developers: How Nindar Maps the Relevant Talent Market
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a581d7d9-3e50-433c-8d2a-11bbd0b934f8" />
+
+Hiring smart contract developers? Start by mapping the right blockchain skills, talent availability and compensation—not just searching by job title. See how Nindar supports Web3 hiring across China, Vietnam and Europe.
+
+[Read the full article →] https://www.nindar.com/blog/before-hiring-smart-contract-developers-how-nindar-maps-the-relevant-talent-market
+
 ## How Nindar Helps VCs Support Hiring Across Multiple Portfolio Companies
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b55f83b1-f3c4-4c6f-850a-cb48a7f37a1a" />
 
