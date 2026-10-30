@@ -2,6 +2,14 @@
 
 Practical hiring insights for technology companies across AI, Web3, blockchain, software engineering, and cross-border recruitment.
 
+## How Nindar Searches for Quant Developers Who Can Move Financial Models from Research into Production
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6b1da921-d9f4-431f-bfc1-de082a6799a0" />
+
+A strong financial model still needs careful production implementation. Nindar helps FinTech employers search for quant developers with relevant quantitative and engineering experience.
+
+[Read the full article →] https://www.nindar.com/blog/how-nindar-searches-for-quant-developers-who-can-move-financial-models-from-research-into
+
 ## Before Hiring Smart Contract Developers: How Nindar Maps the Relevant Talent Market
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a581d7d9-3e50-433c-8d2a-11bbd0b934f8" />
 
